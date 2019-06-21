@@ -1,0 +1,78 @@
+.desktop-viev {
+  position: relative;
+  width: 1440px;
+  height: 4028px;
+  background: #FFFFFF;
+}
+
+.headerContainer {
+  position: absolute;
+  width: 1440px;
+  height: 665px;
+  left: 0px;
+  top: 0px;
+  background: #F4F6F9;  
+}
+
+.headerLogo {
+  position: absolute;
+  width: 99px;
+  height: 32px;
+  left: 163px;
+  top: 61px;
+}
+
+.headerTitle {
+  position: absolute;
+  width: 546px;
+  height: 96px;
+  left: 163px;
+  top: 226px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 48px;
+  display: flex;
+  align-items: flex-end;
+  letter-spacing: 0.03em;
+  color: #333333;
+}
+
+.headerDescription {
+  position: absolute;
+  width: 453px;
+  height: 52px;
+  left: 163px;
+  top: 352px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 26px;
+  color: #4F4F4F;  
+}
+
+.appleStore__1 {
+  position: absolute;
+  width: 156.05px;
+  height: 47px;
+  left: 163px;
+  top: 454px;
+}
+
+.googlePlay__1 {
+  position: absolute;
+  width: 156.05px;
+  height: 47px;
+  left: 354.95px;
+  top: 454px;
+}
+
+.headerMiniature {
+  position: absolute;
+  width: 993px;
+  height: 668px;
+  left: 484px;
+  top: 0px;
+}
